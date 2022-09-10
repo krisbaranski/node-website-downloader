@@ -1,9 +1,5 @@
 # NodeJS
 
-## Command Line website downloader with fetch request and async/await methods
-
-website-downloader.ts
-
 ## Initial code
 
 npx ts-node download.ts
@@ -15,7 +11,7 @@ npx ts-node download.ts
 - npm install --save-dev node-fetch@2
 - npm install --save-dev @types/node-fetch@2
 
-## Data downloader
+## Command Line website downloader with fetch request and async/await methods
 
 ### fetch api
 
