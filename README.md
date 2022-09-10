@@ -2,7 +2,11 @@
 
 ## Initial code
 
-npx ts-node download.ts
+npx ts-node filename url
+
+### or using Node directly:
+
+node filename
 
 ## Additional dev tools code for typescript:
 
@@ -20,14 +24,6 @@ website-downloader.ts
 ### async/await and regex match for websites title
 
 website-downloader2.ts
-
-## Execute code:
-
-npx ts-node filename url
-
-or using Node directly:
-
-node filename
 
 ### for file system management, read/write files
 
